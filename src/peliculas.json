@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Oblivion",
+    "calificacion": "7/10",
+    "publicacion": "01/05/2015",
+    "director": "Joss Whedon",
+    "elenco": "Robert Downey Jr., Chris Hemsworth",
+    "img": "images/uploads/mv1.jpg",
+    "descripcion": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+  },
+  {
+    "titulo": "Into the wild",
+    "calificacion": "7.8/10",
+    "publicacion": "01/05/2015",
+    "director": "Anthony Russo, Joe Russo",
+    "elenco": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+    "img": "images/uploads/mv2.jpg",
+    "descripcion": " As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+  },
+  {
+    "titulo": "Blade Runner",
+    "calificacion": "7.3/10",
+    "publicacion": "01/05/2015",
+    "director": "Peyton Reed",
+    "elenco": "Paul Rudd, Michael Douglas",
+    "img": "images/uploads/mv3.jpg",
+    "descripcion": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+  },
+  {
+    "titulo": "Mulholland pride",
+    "calificacion": "7.2/10",
+    "publicacion": "01/05/2015",
+    "director": "Shane Black",
+    "elenco": "Robert Downey Jr., Guy Pearce, Don Cheadle",
+    "img": "images/uploads/mv4.jpg",
+    "descripcion": " When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  },
+  {
+    "titulo": "Skyfall: Evil Of Boss",
+    "calificacion": "7/10",
+    "publicacion": "01/05/2015",
+    "director": "Alan Taylor",
+    "elenco": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "img": "images/uploads/mv5.jpg",
+    "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  },
+  {
+    "titulo": "Skyfall: Evil Of Boss",
+    "calificacion": "7/10",
+    "publicacion": "01/05/2015",
+    "director": "Alan Taylor",
+    "elenco": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "img": "images/uploads/mv5.jpg",
+    "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  },
+  {
+    "titulo": "Skyfall: Evil Of Boss",
+    "calificacion": "7/10",
+    "publicacion": "01/05/2015",
+    "director": "Alan Taylor",
+    "elenco": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "img": "images/uploads/mv5.jpg",
+    "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  },
+  {
+    "titulo": "Skyfall: Evil Of Boss",
+    "calificacion": "7/10",
+    "publicacion": "01/05/2015",
+    "director": "Alan Taylor",
+    "elenco": "Chris Hemsworth, Natalie Portman, Tom Hiddleston",
+    "img": "images/uploads/mv5.jpg",
+    "descripcion": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+  }
+]
